@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fa7b47a-1e4a-40cb-a188-8d41a9830c43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/37159923-8b9c-4518-9cee-038de593e38f.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/day07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/migrations/0002_auto_20201028_2048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/tserializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/myserializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08_repeat/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/3_S3l8jyc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/7_ElkNKeI.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pic/9.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="4fa7b47a-1e4a-40cb-a188-8d41a9830c43" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="148" />
     <option name="y" value="72" />
     <option name="width" value="1640" />
@@ -413,7 +359,7 @@
       <workItem from="1603931591479" duration="26570000" />
       <workItem from="1604019410873" duration="23874000" />
       <workItem from="1604137725040" duration="9845000" />
-      <workItem from="1604191129114" duration="6999000" />
+      <workItem from="1604191129114" duration="7277000" />
     </task>
     <servers />
   </component>
@@ -423,7 +369,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100189000" />
+    <option name="totallyTimeSpent" value="100467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="58" width="1312" height="828" extended-state="0" />
