@@ -46,6 +46,8 @@ class TeacherAPIView(APIView):
         # 在数据进行反序列化时需要指定关键字 data
         serializer = TeacherDeSerializer(data=req_data)
 
+
+
         # 需要对反序列化的数据进行校验，通过is_valid()方法对传递过来的参数进行校验，合法则继续
         if serializer.is_valid():
             # 调用save()方法进行数据的保存，必须重写create()方法
